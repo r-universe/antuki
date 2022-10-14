@@ -10,6 +10,11 @@
 	registered = true
 [submodule "CARTElette"]
 	path = CARTElette
-	url = https://github.com/antuki/CARTElette
+	url = https://github.com/antuki/CARTElette/CARTElette
+	shallow = true
+	registered = true
+[submodule "btb"]
+	path = btb
+	url = https://github.com/InseeFr/btb
 	shallow = true
 	registered = true
