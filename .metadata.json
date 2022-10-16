@@ -3,10 +3,10 @@
     "package": "COGugaison"
   },
   {
-    "package": "CARTElette"
-  },
-  {
     "package": "btb",
     "oncran": false
+  },
+  {
+    "package": "CARTElette"
   }
 ]
