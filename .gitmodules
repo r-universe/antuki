@@ -17,5 +17,5 @@
 	path = CARTElette
 	url = https://github.com/antuki/CARTElette
 	shallow = true
-	subdir = CARTElette
+	branch = RPackage
 	registered = true
