@@ -4,7 +4,7 @@
   },
   {
     "package": "btb",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "CARTElette"
